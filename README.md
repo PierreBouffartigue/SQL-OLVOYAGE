@@ -1,6 +1,6 @@
 # SQL-OLVOYAGE
 
-Projet de SQl, OL Voyage.
+Projet de SQL, OL Voyage.
 
 ## Membres du groupe : 
 
